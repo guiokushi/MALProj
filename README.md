@@ -14,4 +14,5 @@ Projeto desenvolvido por:
 -Gabriel Gomes Bermudi Santos 18.00947-6
 
 Link do trabalho: https://colab.research.google.com/drive/1LX1CxbX0BZyqbt1_t8Iiu9MDg4ibmAWM?usp=sharing
-
+Referência: 
+BD - https://www.kaggle.com/datasets/azathoth42/myanimelist
