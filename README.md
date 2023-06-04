@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo apresentar e analisar padrões de consumo dos lançamentos de anime no periodo de 2018, bem como as tendências de popularidade nas diversas categorias de anime.
 
-A principal fonte de dados será o MyAnimeList, uma plataforma de análises de anime que fornece informações essenciais sobre cada título, como classificação e comentários. Para realizar a análise, será utilizado o Pandas, uma biblioteca que oferece recursos importantes para a geração de insights neste estudo.
+A principal fonte de dados será o MyAnimeList, uma plataforma de análises de anime que fornece informações essenciais sobre cada título, como classificação, popularidade e status e etc. Para realizar a análise, será utilizado o Pandas, uma biblioteca que oferece recursos importantes para a geração de insights neste estudo.
 
 
 Projeto desenvolvido por: 
