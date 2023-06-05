@@ -16,3 +16,4 @@ Projeto desenvolvido por:
 Link do trabalho: https://colab.research.google.com/drive/1LX1CxbX0BZyqbt1_t8Iiu9MDg4ibmAWM?usp=sharing
 Referência: 
 BD - https://www.kaggle.com/datasets/azathoth42/myanimelist
+Datafolio - https://www.canva.com/design/DAFk6E_dkO8/-QpqYIJgK5T729KEFeP32g/edit?utm_content=DAFk6E_dkO8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
